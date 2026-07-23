@@ -23,13 +23,13 @@ The network utilizes **Layer 3 Switching (SVI)** to provide Inter-VLAN Routing, 
 
 ## 🖼 Project Overview
 
-![Project Overview](images/project-overview.png)
+![Project Overview](images/project-overview.jpg)
 
 ---
 
 ## 🌐 Cisco Packet Tracer Topology
 
-![Network Topology](images/network-topology.png)
+![Network Topology](images/network-topology.jpg)
 
 ---
 
